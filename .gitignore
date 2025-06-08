@@ -1,0 +1,16 @@
+# Ignore compiled files 
+*.class 
+# Ignore build artifacts 
+build/empty/ 
+build/generated-sources/ 
+# Ignore IDE files 
+nbproject/ 
+.netbeans_automatic_build 
+.netbeans_update_resources 
+# Ignore logs and temp files 
+*.log 
+# Ignore sensitive files 
+build/web/META-INF/context.xml 
+web/META-INF/context.xml 
+build/web/uploads/ 
+web/uploads/ 

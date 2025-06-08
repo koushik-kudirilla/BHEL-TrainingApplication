@@ -14,3 +14,4 @@ build/web/META-INF/context.xml
 web/META-INF/context.xml 
 build/web/uploads/ 
 web/uploads/ 
+build/web/WEB-INF/lib/ 

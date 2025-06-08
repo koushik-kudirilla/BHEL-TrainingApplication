@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="">
+  <Resource auth="Container" 
+            driverClassName="com.mysql.cj.jdbc.Driver" 
+            factory="org.apache.tomcat.jdbc.pool.DataSourceFactory" 
+            maxIdle="10" maxTotal="20" maxWaitMillis="-1" 
+            name="jdbc/trainingDB" 
+            password="YOUR PASSWORD" 
+            type="javax.sql.DataSource" 
+            url="jdbc:mysql://localhost:3306/trainingDB" 
+            username="root"/>
+</Context>

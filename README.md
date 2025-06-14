@@ -99,7 +99,7 @@ This project incorporates several security techniques:
      ```
 
 5. **Run the App**
-   - Right-click the project â†’ `Run`
+   - Right-click the project `Run`
    - App will be deployed to `http://localhost:8080/BHEL-TrainingApplication`
 
 ---
